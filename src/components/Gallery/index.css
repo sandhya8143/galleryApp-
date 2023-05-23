@@ -1,0 +1,19 @@
+/* Write your code here. */
+.imageEl {
+  height: 400px;
+  width: 600px;
+}
+.divContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #ffffff;
+}
+.div {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}

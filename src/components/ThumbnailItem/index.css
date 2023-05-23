@@ -1,0 +1,16 @@
+.listStyle {
+  display: flex;
+  list-style-type: none;
+  justify-content: flex-start;
+}
+.image {
+  margin: 10px;
+}
+.blurImage {
+  opacity: 0.5;
+}
+.button {
+  background-color: transparent;
+  border: none;
+  border-width: 0px;
+}
